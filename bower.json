@@ -1,0 +1,22 @@
+{
+  "name": "calendar",
+  "version": "0.0.0",
+  "authors": [
+    "Courtney Christensen <zourtney@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "resolutions": {
+    "jquery": "~2.x"
+  },
+  "dependencies": {
+    "angular": "~1.2.25",
+    "angular-ui-calendar": "~0.8.1"
+  }
+}
